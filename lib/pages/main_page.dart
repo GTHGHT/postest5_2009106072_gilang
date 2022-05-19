@@ -18,10 +18,6 @@ class _MainPageState extends State<MainPage> {
     const SettingPage(),
   ];
 
-  void switchCuacaPage() {
-    setState(() {});
-  }
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
